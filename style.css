@@ -1,18 +1,1 @@
-body {
-    background-color: #121212; /* Dark background */
-    color: #e0e0e0; /* Light text color */
-}
 
-header, footer {
-    background-color: #1f1f1f; /* Darker header/footer */
-}
-
-a {
-    color: #bb86fc; /* Light-colored links */
-}
-
-/* Optionally, override other elements like buttons, navbars, etc. */
-button, .navbar {
-    background-color: #333333; /* Dark button/navbars */
-    color: #ffffff; /* Light text on buttons */
-}
