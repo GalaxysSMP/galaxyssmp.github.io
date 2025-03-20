@@ -25,7 +25,7 @@ To ensure a fun and friendly environment for everyone, please adhere to the foll
  No Hacking/Exploiting: Using hacks, mods, or cheats that give you an unfair advantage is strictly prohibited.
  No Spamming or Excessive Advertising: Keep the chat clean and relevant to the game.
  Build Responsibly: Don't build too close to other players' bases, and avoid building offensive or inappropriate structures.
- 🔧 Plugins and Mods
+ ## 🔧 Plugins and Mods
  Galaxy's SMP uses a variety of custom plugins and features to enhance your gameplay. These include:
 
 # Teleportation: Use commands to teleport between locations, making it easier to explore and connect with friends.
